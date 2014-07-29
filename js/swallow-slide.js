@@ -1,3 +1,11 @@
+/*!
+ * Swallow-Slide v1.0
+ *
+ * Contact: https://github.com/xiaolin3303
+ * 2014-07-27
+ *
+ * Designed and built with all the love of Web
+ */
 function move(direction) {
 	var currentEle = $('#stage .box .current');
 
